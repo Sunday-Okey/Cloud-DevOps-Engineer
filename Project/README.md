@@ -2,6 +2,12 @@
 
 In this project, I deployed web servers for a highly available web app using CloudFormation. I wrote the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. I began by deploying the networking components, followed by servers, security roles, and software following best practices, automation and scripting as much as possible.
 
+## Example Usage
+
+-  ./run.sh deploy us-east-1 myprojectname network.yml network-paramters.json
+-  ./run.sh preview us-east-1 myprojectname network.yml network-paramters.json
+-  ./run.sh delete us-east-1 myprojectname
+
 ## Project Scenario
 
 A company is creating an Instagram clone called Udagram, and the requirement is to deploy this new application to the AWS infrastructure using Infrastructure as Code (IaC).

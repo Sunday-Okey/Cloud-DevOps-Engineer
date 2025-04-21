@@ -13,6 +13,7 @@ You have been tasked with provisioning the required infrastructure and deploying
 ## Project Diagram
 
 
-![image](https://github.com/user-attachments/assets/01fc56f6-f8b0-4df8-b9cd-a9c4247b8da7)
+![image](https://github.com/user-attachments/assets/75bbf104-3221-46ca-8509-84922b0e5804)
+
 
 

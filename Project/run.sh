@@ -9,9 +9,9 @@
 #   $5: Name of the parameters file.
 #
 # Usage examples:
-#   ./run.sh deploy us-east-1 udacity-scripts-exercise exercise.yml exercise-params.json
-#   ./run.sh preview us-east-1 udacity-scripts-exercise exercise.yml exercise-params.json
-#   ./run.sh delete us-east-1 udacity-scripts-exercise
+#   ./run.sh deploy us-east-1 myprojectname network.yml network-paramters.json
+#   ./run.sh preview us-east-1 myprojectname network.yml network-paramters.json
+#   ./run.sh delete us-east-1 myproject
 #
 
 # Validate parameters

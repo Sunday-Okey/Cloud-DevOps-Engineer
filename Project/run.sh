@@ -9,8 +9,8 @@
 #   $5: Name of the parameters file.
 #
 # Usage examples:
-#   ./run.sh deploy us-east-1 myprojectname network.yml network-paramters.json
-#   ./run.sh preview us-east-1 myprojectname network.yml network-paramters.json
+#   ./run.sh deploy us-east-1 myprojectname network.yml network-parameters.json
+#   ./run.sh preview us-east-1 myprojectname network.yml network-parameters.json
 #   ./run.sh delete us-east-1 myproject
 #
 

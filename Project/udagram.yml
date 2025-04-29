@@ -161,7 +161,7 @@ Resources:
             # Reload nginx to apply changes
             sudo systemctl reload nginx
             
-        ImageId: ami-084568db4383264d4
+        ImageId: ami-0f9de6e2d2f067fca
         SecurityGroupIds:
           - !Ref WebServerSecGroup
         InstanceType: t2.micro
